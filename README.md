@@ -74,27 +74,6 @@ The project uses **PostgreSQL, SQL, Power BI, and DAX** to transform raw data in
 
 These recommendations identify areas for further investigation; the dashboard alone does not establish the causes of delivery delays.
 
-## 📂 Project Structure
-
-```text
-olist-ecommerce-delivery-analytics/
-│
-├── sql/
-│   ├── data_validation.sql
-│   ├── delivery_performance.sql
-│   └── analysis_views.sql
-│
-├── powerbi/
-│   └── delivery_performance_dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
-```
-
-*Update the file names and folders above to match your actual repository structure.*
-
 ## 🚀 How to Explore the Project
 
 1. Clone or download this repository.
